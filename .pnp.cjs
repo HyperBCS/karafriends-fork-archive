@@ -78,9 +78,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react", "npm:19.2.17"],\
           ["@types/react-dom", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:19.2.3"],\
           ["@types/react-fade-in", "npm:2.0.2"],\
-          ["@types/react-relay", "npm:18.2.1"],\
           ["@types/react-swipeable", "npm:5.2.0"],\
-          ["@types/relay-runtime", "npm:20.1.1"],\
           ["@types/tunnel", "npm:0.0.7"],\
           ["@types/user-agents", "npm:1.0.4"],\
           ["@types/uuid", "npm:11.0.0"],\
@@ -147,8 +145,6 @@ const RAW_RUNTIME_STATE =
           ["react-swipeable", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:7.0.2"],\
           ["regenerator-runtime", "npm:0.14.1"],\
           ["relay-compiler", "npm:21.0.1"],\
-          ["relay-compiler-language-typescript", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:15.0.1"],\
-          ["relay-config", "npm:12.0.1"],\
           ["relay-runtime", "npm:21.0.1"],\
           ["supports-color", "npm:11.0.0"],\
           ["ts-invariant", "npm:0.10.3"],\
@@ -5771,14 +5767,6 @@ const RAW_RUNTIME_STATE =
           ["csstype", "npm:3.2.3"]\
         ],\
         "linkType": "HARD"\
-      }],\
-      ["npm:19.2.2", {\
-        "packageLocation": "./.yarn/cache/@types-react-npm-19.2.2-a2bc107265-d6adf8fd4b.zip/node_modules/@types/react/",\
-        "packageDependencies": [\
-          ["@types/react", "npm:19.2.2"],\
-          ["csstype", "npm:3.1.3"]\
-        ],\
-        "linkType": "HARD"\
       }]\
     ]],\
     ["@types/react-dom", [\
@@ -5811,39 +5799,12 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
-    ["@types/react-relay", [\
-      ["npm:18.2.1", {\
-        "packageLocation": "./.yarn/cache/@types-react-relay-npm-18.2.1-48f8ed7ef5-9f9f5311eb.zip/node_modules/@types/react-relay/",\
-        "packageDependencies": [\
-          ["@types/react-relay", "npm:18.2.1"],\
-          ["@types/react", "npm:19.2.2"],\
-          ["@types/relay-runtime", "npm:19.0.3"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
     ["@types/react-swipeable", [\
       ["npm:5.2.0", {\
         "packageLocation": "./.yarn/cache/@types-react-swipeable-npm-5.2.0-cbfba6256c-83d20feda7.zip/node_modules/@types/react-swipeable/",\
         "packageDependencies": [\
           ["@types/react-swipeable", "npm:5.2.0"],\
           ["react-swipeable", "virtual:cbfba6256c8d29db75551fc111f86ca279ef029f1ca8eb85d98b95a74d82857ca12ce89beeaea677f25fcd1f236b53be34743655de1f350b85d301127dad148e#npm:7.0.2"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["@types/relay-runtime", [\
-      ["npm:19.0.3", {\
-        "packageLocation": "./.yarn/cache/@types-relay-runtime-npm-19.0.3-3e4510b234-4e16f33196.zip/node_modules/@types/relay-runtime/",\
-        "packageDependencies": [\
-          ["@types/relay-runtime", "npm:19.0.3"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
-      ["npm:20.1.1", {\
-        "packageLocation": "./.yarn/cache/@types-relay-runtime-npm-20.1.1-20ed5fdf82-d4f80f2e97.zip/node_modules/@types/relay-runtime/",\
-        "packageDependencies": [\
-          ["@types/relay-runtime", "npm:20.1.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -8690,13 +8651,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["csstype", [\
-      ["npm:3.1.3", {\
-        "packageLocation": "./.yarn/cache/csstype-npm-3.1.3-e9a1c85013-f593cce41f.zip/node_modules/csstype/",\
-        "packageDependencies": [\
-          ["csstype", "npm:3.1.3"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:3.2.3", {\
         "packageLocation": "./.yarn/cache/csstype-npm-3.2.3-741053244e-ad41baf7e2.zip/node_modules/csstype/",\
         "packageDependencies": [\
@@ -13188,9 +13142,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react", "npm:19.2.17"],\
           ["@types/react-dom", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:19.2.3"],\
           ["@types/react-fade-in", "npm:2.0.2"],\
-          ["@types/react-relay", "npm:18.2.1"],\
           ["@types/react-swipeable", "npm:5.2.0"],\
-          ["@types/relay-runtime", "npm:20.1.1"],\
           ["@types/tunnel", "npm:0.0.7"],\
           ["@types/user-agents", "npm:1.0.4"],\
           ["@types/uuid", "npm:11.0.0"],\
@@ -13257,8 +13209,6 @@ const RAW_RUNTIME_STATE =
           ["react-swipeable", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:7.0.2"],\
           ["regenerator-runtime", "npm:0.14.1"],\
           ["relay-compiler", "npm:21.0.1"],\
-          ["relay-compiler-language-typescript", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:15.0.1"],\
-          ["relay-config", "npm:12.0.1"],\
           ["relay-runtime", "npm:21.0.1"],\
           ["supports-color", "npm:11.0.0"],\
           ["ts-invariant", "npm:0.10.3"],\
@@ -16396,49 +16346,6 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/unplugged/relay-compiler-npm-21.0.1-1e06a71766/node_modules/relay-compiler/",\
         "packageDependencies": [\
           ["relay-compiler", "npm:21.0.1"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["relay-compiler-language-typescript", [\
-      ["npm:15.0.1", {\
-        "packageLocation": "./.yarn/cache/relay-compiler-language-typescript-npm-15.0.1-d804388cf2-4041ca8f14.zip/node_modules/relay-compiler-language-typescript/",\
-        "packageDependencies": [\
-          ["relay-compiler-language-typescript", "npm:15.0.1"]\
-        ],\
-        "linkType": "SOFT"\
-      }],\
-      ["virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:15.0.1", {\
-        "packageLocation": "./.yarn/__virtual__/relay-compiler-language-typescript-virtual-39ba23747b/0/cache/relay-compiler-language-typescript-npm-15.0.1-d804388cf2-4041ca8f14.zip/node_modules/relay-compiler-language-typescript/",\
-        "packageDependencies": [\
-          ["relay-compiler-language-typescript", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:15.0.1"],\
-          ["@types/react-relay", "npm:18.2.1"],\
-          ["@types/relay-compiler", null],\
-          ["@types/relay-runtime", "npm:20.1.1"],\
-          ["@types/typescript", null],\
-          ["invariant", "npm:2.2.4"],\
-          ["relay-compiler", "npm:21.0.1"],\
-          ["relay-runtime", "npm:21.0.1"],\
-          ["typescript", "patch:typescript@npm%3A6.0.3#optional!builtin<compat/typescript>::version=6.0.3&hash=5786d5"]\
-        ],\
-        "packagePeers": [\
-          "@types/react-relay",\
-          "@types/relay-compiler",\
-          "@types/relay-runtime",\
-          "@types/typescript",\
-          "relay-compiler",\
-          "relay-runtime",\
-          "typescript"\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["relay-config", [\
-      ["npm:12.0.1", {\
-        "packageLocation": "./.yarn/cache/relay-config-npm-12.0.1-a3fefc0bb5-47a5ac5d52.zip/node_modules/relay-config/",\
-        "packageDependencies": [\
-          ["relay-config", "npm:12.0.1"],\
-          ["cosmiconfig", "npm:5.2.1"]\
         ],\
         "linkType": "HARD"\
       }]\
