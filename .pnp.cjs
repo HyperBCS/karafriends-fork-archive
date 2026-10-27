@@ -60,25 +60,17 @@ const RAW_RUNTIME_STATE =
           ["@sentry/node", "npm:10.70.0"],\
           ["@testing-library/dom", "npm:10.4.1"],\
           ["@testing-library/webdriverio", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:3.2.1"],\
-          ["@types/audioworklet", "npm:0.0.100"],\
-          ["@types/color-convert", "npm:3.0.1"],\
           ["@types/compression", "npm:1.8.1"],\
           ["@types/express", "npm:5.0.6"],\
-          ["@types/format-duration", "npm:3.0.0"],\
           ["@types/gl-vec2", "npm:1.3.5"],\
-          ["@types/hls.js", "npm:1.0.0"],\
           ["@types/lodash", "npm:4.17.25"],\
           ["@types/materialize-css", "npm:1.0.15"],\
           ["@types/node", "npm:26.4.0"],\
-          ["@types/node-fetch", "npm:2.6.13"],\
           ["@types/promise-retry", "npm:1.1.6"],\
           ["@types/qrcode", "npm:1.5.6"],\
           ["@types/react", "npm:19.2.17"],\
           ["@types/react-dom", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:19.2.3"],\
-          ["@types/react-fade-in", "npm:2.0.2"],\
           ["@types/tunnel", "npm:0.0.7"],\
-          ["@types/uuid", "npm:11.0.0"],\
-          ["@types/wicg-mediasession", "npm:1.1.8"],\
           ["@types/ws", "npm:8.18.1"],\
           ["@types/youtube-player", "npm:5.5.11"],\
           ["@wdio/cli", "npm:9.31.4"],\
@@ -5288,15 +5280,6 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
-    ["@types/audioworklet", [\
-      ["npm:0.0.100", {\
-        "packageLocation": "./.yarn/cache/@types-audioworklet-npm-0.0.100-07c4264092-c876f026ab.zip/node_modules/@types/audioworklet/",\
-        "packageDependencies": [\
-          ["@types/audioworklet", "npm:0.0.100"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
     ["@types/babel__core", [\
       ["npm:7.20.5", {\
         "packageLocation": "./.yarn/cache/@types-babel__core-npm-7.20.5-4d95f75eab-c32838d280.zip/node_modules/@types/babel__core/",\
@@ -5362,16 +5345,6 @@ const RAW_RUNTIME_STATE =
           ["@types/keyv", "npm:3.1.4"],\
           ["@types/node", "npm:24.7.2"],\
           ["@types/responselike", "npm:1.0.3"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["@types/color-convert", [\
-      ["npm:3.0.1", {\
-        "packageLocation": "./.yarn/cache/@types-color-convert-npm-3.0.1-6056e7ffd3-4e65b695af.zip/node_modules/@types/color-convert/",\
-        "packageDependencies": [\
-          ["@types/color-convert", "npm:3.0.1"],\
-          ["color-convert", "npm:3.1.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5450,15 +5423,6 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
-    ["@types/format-duration", [\
-      ["npm:3.0.0", {\
-        "packageLocation": "./.yarn/cache/@types-format-duration-npm-3.0.0-055d426931-d782976a9b.zip/node_modules/@types/format-duration/",\
-        "packageDependencies": [\
-          ["@types/format-duration", "npm:3.0.0"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
     ["@types/gl-vec2", [\
       ["npm:1.3.5", {\
         "packageLocation": "./.yarn/cache/@types-gl-vec2-npm-1.3.5-b7106fa936-60aa110b4f.zip/node_modules/@types/gl-vec2/",\
@@ -5474,16 +5438,6 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@types/graceful-fs", "npm:4.1.9"],\
           ["@types/node", "npm:24.7.2"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["@types/hls.js", [\
-      ["npm:1.0.0", {\
-        "packageLocation": "./.yarn/cache/@types-hls.js-npm-1.0.0-40687e853a-23b5b08416.zip/node_modules/@types/hls.js/",\
-        "packageDependencies": [\
-          ["@types/hls.js", "npm:1.0.0"],\
-          ["hls.js", "npm:1.6.13"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5644,17 +5598,6 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
-    ["@types/node-fetch", [\
-      ["npm:2.6.13", {\
-        "packageLocation": "./.yarn/cache/@types-node-fetch-npm-2.6.13-eb2c52495a-944d522147.zip/node_modules/@types/node-fetch/",\
-        "packageDependencies": [\
-          ["@types/node-fetch", "npm:2.6.13"],\
-          ["@types/node", "npm:24.7.2"],\
-          ["form-data", "npm:4.0.5"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
     ["@types/normalize-package-data", [\
       ["npm:2.4.4", {\
         "packageLocation": "./.yarn/cache/@types-normalize-package-data-npm-2.4.4-676a8ba353-65dff72b54.zip/node_modules/@types/normalize-package-data/",\
@@ -5746,16 +5689,6 @@ const RAW_RUNTIME_STATE =
         ],\
         "packagePeers": [\
           "@types/react"\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["@types/react-fade-in", [\
-      ["npm:2.0.2", {\
-        "packageLocation": "./.yarn/cache/@types-react-fade-in-npm-2.0.2-33b604dcdb-f4b59a1f9f.zip/node_modules/@types/react-fade-in/",\
-        "packageDependencies": [\
-          ["@types/react-fade-in", "npm:2.0.2"],\
-          ["react-fade-in", "virtual:33b604dcdb0f4edf4a9630afc3c64ee44e6ac515f9dd7abcb98641df60a98e0306327801598fcb1734e2cc74ada76823042330b7769b81c0b3f730d1b7ea27bb#npm:2.0.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5866,30 +5799,11 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
-    ["@types/uuid", [\
-      ["npm:11.0.0", {\
-        "packageLocation": "./.yarn/cache/@types-uuid-npm-11.0.0-3f4d90d65a-9f94bd34e5.zip/node_modules/@types/uuid/",\
-        "packageDependencies": [\
-          ["@types/uuid", "npm:11.0.0"],\
-          ["uuid", "npm:13.0.0"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
     ["@types/which", [\
       ["npm:2.0.2", {\
         "packageLocation": "./.yarn/cache/@types-which-npm-2.0.2-a13b6bc8eb-8626a3c2f6.zip/node_modules/@types/which/",\
         "packageDependencies": [\
           ["@types/which", "npm:2.0.2"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["@types/wicg-mediasession", [\
-      ["npm:1.1.8", {\
-        "packageLocation": "./.yarn/cache/@types-wicg-mediasession-npm-1.1.8-988ce26b65-90db25e990.zip/node_modules/@types/wicg-mediasession/",\
-        "packageDependencies": [\
-          ["@types/wicg-mediasession", "npm:1.1.8"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -10308,18 +10222,6 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:4.0.5", {\
-        "packageLocation": "./.yarn/cache/form-data-npm-4.0.5-c35fce815a-52ecd6e927.zip/node_modules/form-data/",\
-        "packageDependencies": [\
-          ["form-data", "npm:4.0.5"],\
-          ["asynckit", "npm:0.4.0"],\
-          ["combined-stream", "npm:1.0.8"],\
-          ["es-set-tostringtag", "npm:2.1.0"],\
-          ["hasown", "npm:2.0.2"],\
-          ["mime-types", "npm:2.1.35"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:4.0.6", {\
         "packageLocation": "./.yarn/cache/form-data-npm-4.0.6-fb3ea14cf3-de6614c853.zip/node_modules/form-data/",\
         "packageDependencies": [\
@@ -11169,13 +11071,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["hls.js", [\
-      ["npm:1.6.13", {\
-        "packageLocation": "./.yarn/cache/hls.js-npm-1.6.13-e1cc048ddb-4de045fddb.zip/node_modules/hls.js/",\
-        "packageDependencies": [\
-          ["hls.js", "npm:1.6.13"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:1.7.1", {\
         "packageLocation": "./.yarn/cache/hls.js-npm-1.7.1-bc27dd553e-5bf1c5ba1c.zip/node_modules/hls.js/",\
         "packageDependencies": [\
@@ -13045,25 +12940,17 @@ const RAW_RUNTIME_STATE =
           ["@sentry/node", "npm:10.70.0"],\
           ["@testing-library/dom", "npm:10.4.1"],\
           ["@testing-library/webdriverio", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:3.2.1"],\
-          ["@types/audioworklet", "npm:0.0.100"],\
-          ["@types/color-convert", "npm:3.0.1"],\
           ["@types/compression", "npm:1.8.1"],\
           ["@types/express", "npm:5.0.6"],\
-          ["@types/format-duration", "npm:3.0.0"],\
           ["@types/gl-vec2", "npm:1.3.5"],\
-          ["@types/hls.js", "npm:1.0.0"],\
           ["@types/lodash", "npm:4.17.25"],\
           ["@types/materialize-css", "npm:1.0.15"],\
           ["@types/node", "npm:26.4.0"],\
-          ["@types/node-fetch", "npm:2.6.13"],\
           ["@types/promise-retry", "npm:1.1.6"],\
           ["@types/qrcode", "npm:1.5.6"],\
           ["@types/react", "npm:19.2.17"],\
           ["@types/react-dom", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:19.2.3"],\
-          ["@types/react-fade-in", "npm:2.0.2"],\
           ["@types/tunnel", "npm:0.0.7"],\
-          ["@types/uuid", "npm:11.0.0"],\
-          ["@types/wicg-mediasession", "npm:1.1.8"],\
           ["@types/ws", "npm:8.18.1"],\
           ["@types/youtube-player", "npm:5.5.11"],\
           ["@wdio/cli", "npm:9.31.4"],\
@@ -15804,19 +15691,6 @@ const RAW_RUNTIME_STATE =
           "react"\
         ],\
         "linkType": "HARD"\
-      }],\
-      ["virtual:33b604dcdb0f4edf4a9630afc3c64ee44e6ac515f9dd7abcb98641df60a98e0306327801598fcb1734e2cc74ada76823042330b7769b81c0b3f730d1b7ea27bb#npm:2.0.1", {\
-        "packageLocation": "./.yarn/__virtual__/react-fade-in-virtual-3238aafd16/0/cache/react-fade-in-npm-2.0.1-e1dff330e1-34e6ddf164.zip/node_modules/react-fade-in/",\
-        "packageDependencies": [\
-          ["react-fade-in", "virtual:33b604dcdb0f4edf4a9630afc3c64ee44e6ac515f9dd7abcb98641df60a98e0306327801598fcb1734e2cc74ada76823042330b7769b81c0b3f730d1b7ea27bb#npm:2.0.1"],\
-          ["@types/react", null],\
-          ["react", null]\
-        ],\
-        "packagePeers": [\
-          "@types/react",\
-          "react"\
-        ],\
-        "linkType": "HARD"\
       }]\
     ]],\
     ["react-icons", [\
@@ -18429,13 +18303,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["uuid", [\
-      ["npm:13.0.0", {\
-        "packageLocation": "./.yarn/cache/uuid-npm-13.0.0-29831a4f1f-2742b24d1e.zip/node_modules/uuid/",\
-        "packageDependencies": [\
-          ["uuid", "npm:13.0.0"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:14.0.2", {\
         "packageLocation": "./.yarn/cache/uuid-npm-14.0.2-f336308791-e8263a76ad.zip/node_modules/uuid/",\
         "packageDependencies": [\
