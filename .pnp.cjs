@@ -41,19 +41,8 @@ const RAW_RUNTIME_STATE =
           ["@opentelemetry/sdk-trace-base", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.10.0"],\
           ["@parcel/config-default", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4"],\
           ["@parcel/core", "npm:2.16.4"],\
-          ["@parcel/resolver-default", "npm:2.16.4"],\
-          ["@parcel/transformer-babel", "npm:2.16.4"],\
-          ["@parcel/transformer-css", "npm:2.16.4"],\
           ["@parcel/transformer-glsl", "npm:2.16.4"],\
-          ["@parcel/transformer-html", "npm:2.16.4"],\
-          ["@parcel/transformer-image", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4"],\
           ["@parcel/transformer-inline-string", "npm:2.16.4"],\
-          ["@parcel/transformer-js", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4"],\
-          ["@parcel/transformer-json", "npm:2.16.4"],\
-          ["@parcel/transformer-postcss", "npm:2.16.4"],\
-          ["@parcel/transformer-posthtml", "npm:2.16.4"],\
-          ["@parcel/transformer-raw", "npm:2.16.4"],\
-          ["@parcel/transformer-react-refresh-wrap", "npm:2.16.4"],\
           ["@parcel/transformer-sass", "npm:2.16.4"],\
           ["@parcel/transformer-worklet", "npm:2.16.4"],\
           ["@sentry/browser", "npm:10.70.0"],\
@@ -3529,8 +3518,8 @@ const RAW_RUNTIME_STATE =
           ["@parcel/transformer-babel", "npm:2.16.4"],\
           ["@parcel/transformer-css", "npm:2.16.4"],\
           ["@parcel/transformer-html", "npm:2.16.4"],\
-          ["@parcel/transformer-image", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4"],\
-          ["@parcel/transformer-js", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4"],\
+          ["@parcel/transformer-image", "virtual:5cfa254e4d18d06371bfb75c64f295f82202d9ac86edca83833261fc59a76e56d4a092d153bc1ba5c16cdce84a677deb778fb94136a38558b1db8df215159c54#npm:2.16.4"],\
+          ["@parcel/transformer-js", "virtual:5cfa254e4d18d06371bfb75c64f295f82202d9ac86edca83833261fc59a76e56d4a092d153bc1ba5c16cdce84a677deb778fb94136a38558b1db8df215159c54#npm:2.16.4"],\
           ["@parcel/transformer-json", "npm:2.16.4"],\
           ["@parcel/transformer-node", "npm:2.16.4"],\
           ["@parcel/transformer-postcss", "npm:2.16.4"],\
@@ -4217,10 +4206,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4", {\
-        "packageLocation": "./.yarn/__virtual__/@parcel-transformer-image-virtual-7c0a320600/0/cache/@parcel-transformer-image-npm-2.16.4-b2d0bf266e-6f00106562.zip/node_modules/@parcel/transformer-image/",\
+      ["virtual:5cfa254e4d18d06371bfb75c64f295f82202d9ac86edca83833261fc59a76e56d4a092d153bc1ba5c16cdce84a677deb778fb94136a38558b1db8df215159c54#npm:2.16.4", {\
+        "packageLocation": "./.yarn/__virtual__/@parcel-transformer-image-virtual-915afa6abe/0/cache/@parcel-transformer-image-npm-2.16.4-b2d0bf266e-6f00106562.zip/node_modules/@parcel/transformer-image/",\
         "packageDependencies": [\
-          ["@parcel/transformer-image", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4"],\
+          ["@parcel/transformer-image", "virtual:5cfa254e4d18d06371bfb75c64f295f82202d9ac86edca83833261fc59a76e56d4a092d153bc1ba5c16cdce84a677deb778fb94136a38558b1db8df215159c54#npm:2.16.4"],\
           ["@parcel/core", "npm:2.16.4"],\
           ["@parcel/plugin", "npm:2.16.4"],\
           ["@parcel/utils", "npm:2.16.4"],\
@@ -4253,10 +4242,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4", {\
-        "packageLocation": "./.yarn/__virtual__/@parcel-transformer-js-virtual-50d6ce00fd/0/cache/@parcel-transformer-js-npm-2.16.4-2c18078e29-8e010885b5.zip/node_modules/@parcel/transformer-js/",\
+      ["virtual:5cfa254e4d18d06371bfb75c64f295f82202d9ac86edca83833261fc59a76e56d4a092d153bc1ba5c16cdce84a677deb778fb94136a38558b1db8df215159c54#npm:2.16.4", {\
+        "packageLocation": "./.yarn/__virtual__/@parcel-transformer-js-virtual-be8ef9c01a/0/cache/@parcel-transformer-js-npm-2.16.4-2c18078e29-8e010885b5.zip/node_modules/@parcel/transformer-js/",\
         "packageDependencies": [\
-          ["@parcel/transformer-js", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4"],\
+          ["@parcel/transformer-js", "virtual:5cfa254e4d18d06371bfb75c64f295f82202d9ac86edca83833261fc59a76e56d4a092d153bc1ba5c16cdce84a677deb778fb94136a38558b1db8df215159c54#npm:2.16.4"],\
           ["@parcel/core", "npm:2.16.4"],\
           ["@parcel/diagnostic", "npm:2.16.4"],\
           ["@parcel/plugin", "npm:2.16.4"],\
@@ -12888,19 +12877,8 @@ const RAW_RUNTIME_STATE =
           ["@opentelemetry/sdk-trace-base", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.10.0"],\
           ["@parcel/config-default", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4"],\
           ["@parcel/core", "npm:2.16.4"],\
-          ["@parcel/resolver-default", "npm:2.16.4"],\
-          ["@parcel/transformer-babel", "npm:2.16.4"],\
-          ["@parcel/transformer-css", "npm:2.16.4"],\
           ["@parcel/transformer-glsl", "npm:2.16.4"],\
-          ["@parcel/transformer-html", "npm:2.16.4"],\
-          ["@parcel/transformer-image", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4"],\
           ["@parcel/transformer-inline-string", "npm:2.16.4"],\
-          ["@parcel/transformer-js", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:2.16.4"],\
-          ["@parcel/transformer-json", "npm:2.16.4"],\
-          ["@parcel/transformer-postcss", "npm:2.16.4"],\
-          ["@parcel/transformer-posthtml", "npm:2.16.4"],\
-          ["@parcel/transformer-raw", "npm:2.16.4"],\
-          ["@parcel/transformer-react-refresh-wrap", "npm:2.16.4"],\
           ["@parcel/transformer-sass", "npm:2.16.4"],\
           ["@parcel/transformer-worklet", "npm:2.16.4"],\
           ["@sentry/browser", "npm:10.70.0"],\
