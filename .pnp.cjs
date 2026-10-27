@@ -31,7 +31,6 @@ const RAW_RUNTIME_STATE =
           ["@apollo/datasource-rest", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:6.4.1"],\
           ["@apollo/server", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:5.5.1"],\
           ["@apollo/utils.fetcher", "npm:3.1.0"],\
-          ["@apollo/utils.keyvaluecache", "npm:4.0.0"],\
           ["@as-integrations/express5", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:1.1.2"],\
           ["@babel/core", "npm:7.29.7"],\
           ["@babel/runtime", "npm:7.29.2"],\
@@ -12867,7 +12866,6 @@ const RAW_RUNTIME_STATE =
           ["@apollo/datasource-rest", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:6.4.1"],\
           ["@apollo/server", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:5.5.1"],\
           ["@apollo/utils.fetcher", "npm:3.1.0"],\
-          ["@apollo/utils.keyvaluecache", "npm:4.0.0"],\
           ["@as-integrations/express5", "virtual:1cb46121cac5c3b5fcafbbc2f2be3dbc61042f1d39014468aceb7329098980d765a877a7dd0cc051cfbceff2442aaf5c8fca8d7fe23fd2660746643d17e013bc#npm:1.1.2"],\
           ["@babel/core", "npm:7.29.7"],\
           ["@babel/runtime", "npm:7.29.2"],\
